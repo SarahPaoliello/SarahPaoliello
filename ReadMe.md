@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭Sou estudante de Eng. de Computação<br>👯 Estou a procura de estágio<br>🌱 Aprendendo mais sobre Front end<br>
+# About Me:
+Estudante de Eng. de Computação
 
 
 ## 🌐 Socials:
